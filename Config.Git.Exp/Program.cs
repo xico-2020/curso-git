@@ -8,6 +8,8 @@ namespace Config.Git.Exp
         {
             Console.WriteLine("Para configuração do GitHub conforme instruido no curso!!!!");
             Console.WriteLine();
+            Console.WriteLine("XPTO");
+            Console.WriteLine();
         }
     }
 }
