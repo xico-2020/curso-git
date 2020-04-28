@@ -6,7 +6,7 @@ namespace Config.Git.Exp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Para configuração do GitHub conforme instruido no curso!");
+            Console.WriteLine("Para configuração do GitHub conforme instruido no curso!!!!");
             Console.WriteLine();
         }
     }
